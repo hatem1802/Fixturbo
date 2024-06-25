@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fixturbo/static/css/main.ac41eca8.css",
+    "main.js": "/Fixturbo/static/js/main.9cb6e5e1.js",
+    "index.html": "/Fixturbo/index.html",
+    "main.ac41eca8.css.map": "/Fixturbo/static/css/main.ac41eca8.css.map",
+    "main.9cb6e5e1.js.map": "/Fixturbo/static/js/main.9cb6e5e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac41eca8.css",
+    "static/js/main.9cb6e5e1.js"
+  ]
+}
