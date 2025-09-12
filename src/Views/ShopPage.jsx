@@ -174,6 +174,7 @@ const Products = () => {
       });
       
   }, []);
+  console.log(products)
 
   return (
     <>
