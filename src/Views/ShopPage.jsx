@@ -165,7 +165,7 @@ const Products = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:3000/api/students/")
+    fetch("https://freetestapi.com/api/v1/cars")
       .then((Response) => {
         return Response.json();
       })
@@ -174,7 +174,6 @@ const Products = () => {
       });
       
   }, []);
-  console.log(products)
 
   return (
     <>
