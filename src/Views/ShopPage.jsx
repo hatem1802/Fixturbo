@@ -165,7 +165,7 @@ const Products = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    fetch("https://localhost:3000/api/students")
+    fetch("http://localhost:3000/api/students/")
       .then((Response) => {
         return Response.json();
       })
